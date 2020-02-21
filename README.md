@@ -1,2 +1,2 @@
 # SampleWebApp123
-this is a test. this is new
+This is for Maven Deploy Demo
