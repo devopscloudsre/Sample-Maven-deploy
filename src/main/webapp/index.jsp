@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Welcome to Devops Tutorial</h2>
+<h2>Welcome to Devops Tutorial and maven test</h2>
 </body>
 </html>
